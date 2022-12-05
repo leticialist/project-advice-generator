@@ -1,0 +1,73 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    background-color: var(--dark-blue);
+}
+
+main {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+}
+
+.container {
+    background-color: var(--dark-grayish);
+    width: 430px;
+    padding: 38px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 7px 29px 0px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.advice {
+    text-align: center;
+}
+
+.advice-number {
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: var(--neon-green);
+}
+
+.advice-description {
+    font-size: 22px;
+    font-weight: bolder;
+    color: var(--light-cyan);
+    padding: 20px;
+    margin-bottom: 12px;
+}
+
+.division {
+    width: 355px ;
+    margin-bottom: 16px;
+}
+
+.advice-update {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--neon-green);
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.4s;
+    position: absolute;
+    bottom: -25px;
+}
+
+.advice-update img {
+    width: 20px;
+}
+
+.advice-update:hover {
+    box-shadow: var(--neon-green) 0px 0px 20px;
+}

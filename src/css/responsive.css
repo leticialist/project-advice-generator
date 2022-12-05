@@ -1,0 +1,19 @@
+@media (max-width: 475px) {
+
+    main {
+        margin:0 15px;
+    }
+
+    .container {
+        width: 100%;
+        margin: 15px;
+    }
+
+    .advice-description {
+        padding: 20px 35px ;
+    }
+
+    .division {
+        padding: 0 35px;
+    }
+}
