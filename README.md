@@ -1,7 +1,7 @@
 <p align="center">
 <h2 align="center"> Advice Generator</h2>
 <p align="center"> Solução do desafio do FrontEnd Mentor nas versões desktop e mobile.<br> <br>
-<img align="center" src="https://i.imgur.com/Zc2c7yi.gif"> 
+<img align="center" src="https://i.imgur.com/KB7ky5E.gif"> 
 
 <h3 align="center">Link do desafio</h3> 
 <p align="center">https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db</p>
